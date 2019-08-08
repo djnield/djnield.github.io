@@ -6,11 +6,66 @@
             <checksum>https://raw.githubusercontent.com/djnield/djnield.github.io/master/zips/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/djnield/djnield.github.io/master/zips/</datadir>
         </dir>
+        
          <dir>
-             <info compressed="false">https://raw.githubusercontent.com/nixgates/nixgates/master/packages/addons.xml</info>
-             <checksum>https://raw.githubusercontent.com/nixgates/nixgates/master/packages/addons.xml.md5</checksum>
-             <datadir zip="true">https://raw.githubusercontent.com/nixgates/nixgates/master/packages</datadir>
+			<info compressed="false">https://raw.githubusercontent.com/123Venom/zips/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/123Venom/zips/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/123Venom/zips/master/</datadir>
+		</dir>
+
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/</datadir>
+		</dir>
+
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/nixgates/nixgates/master/packages/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/nixgates/nixgates/master/packages/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/nixgates/nixgates/master/packages</datadir>
+		</dir>
+
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openmeta/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openmeta/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openmeta/master/zips/</datadir>
+		</dir>
+
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/</datadir>
+        </dir>
+        
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/drinfernoo/repository.aftermath/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/drinfernoo/repository.aftermath/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/drinfernoo/repository.aftermath/master/zips/</datadir>
         </dir> 
+        
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/henryjfry/repository.nextup/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/henryjfry/repository.nextup/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/henryjfry/repository.nextup/master/zips/</datadir>
+        </dir>
+        
+        <dir>
+            <info compressed="false">http://repository.unblockr.net/addons/addons.xml</info>
+		    <checksum>http://repository.unblockr.net/addons/addons.xml.md5</checksum>
+		    <datadir zip="true">http://repository.unblockr.net/addons</datadir>
+		</dir>
+		
+		<dir>
+		    <info>https://raw.githubusercontent.com/rmrector/repository.rector.stuff/master/addons.xml</info>
+		    <checksum>https://raw.githubusercontent.com/rmrector/repository.rector.stuff/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/rmrector/repository.rector.stuff/master/</datadir>
+       </dir>	
+       
+       <dir>
+           <info compressed="false">https://repo.orionoid.com/addons.xml</info>
+           <checksum>https://repo.orionoid.com/addons.xml.md5</checksum>
+           <datadir zip="true">https://repo.orionoid.com</datadir>
+       </dir>	
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>djnields repo</summary>
