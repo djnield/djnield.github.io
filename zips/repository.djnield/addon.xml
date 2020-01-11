@@ -38,9 +38,9 @@
         </dir>
         
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/drinfernoo/repository.aftermath/master/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/drinfernoo/repository.aftermath/master/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/drinfernoo/repository.aftermath/master/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/drinfernoo/repository.openwizard/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/drinfernoo/repository.openwizard/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/drinfernoo/repository.openwizard/master/zips/</datadir>
         </dir> 
         
         <dir>
@@ -53,12 +53,8 @@
 		    <checksum>https://raw.githubusercontent.com/rmrector/repository.rector.stuff/master/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/rmrector/repository.rector.stuff/master/</datadir>
        </dir>	
-       
-       <dir>
-           <info compressed="false">https://repo.orionoid.com/addons.xml</info>
-           <checksum>https://repo.orionoid.com/addons.xml.md5</checksum>
-           <datadir zip="true">https://repo.orionoid.com</datadir>
-       </dir>	
+      
+     	
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>djnields repo</summary>
