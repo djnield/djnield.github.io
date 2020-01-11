@@ -39,9 +39,9 @@
         </dir>
 
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/drinfernoo/repository.aftermath/master/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/drinfernoo/repository.aftermath/master/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/drinfernoo/repository.aftermath/master/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/drinfernoo/repository.openwizard/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/drinfernoo/repository.openwizard/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/drinfernoo/repository.openwizard/master/zips/</datadir>
         </dir>
 
         <dir>
