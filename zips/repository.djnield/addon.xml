@@ -62,7 +62,7 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>djnields repo</summary>
-        <description>Basic Kodi Setup</description>
+        <description>My own setup</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
         <assets>
