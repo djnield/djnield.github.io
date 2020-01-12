@@ -56,6 +56,7 @@
             <datadir zip="true">https://raw.githubusercontent.com/henryjfry/repository.nextup/master/zips/</datadir>
         </dir>
         
+        <dir>
         	<info>https://raw.githubusercontent.com/rmrector/repository.rector.stuff/master/addons.xml</info>
 		    <checksum>https://raw.githubusercontent.com/rmrector/repository.rector.stuff/master/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/rmrector/repository.rector.stuff/master/</datadir>
